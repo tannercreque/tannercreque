@@ -2,7 +2,7 @@
 ## 👋 &nbsp;Good day! My name is Tanner!
 ### *A litte about me...*
 :computer: **Hobbies:** I have always been a computer enthusiast since I was very young. This enthusiasm has only gotten greater as I have gotten older.
-:bookmark_tabs: **Education:** I graduated from Flatiron School in the Software Engineering discipline.
+:bookmark_tabs: **Education:** I graduated from Flatiron School in the Software Engineering discipline. <br>
 :writing_hand: **Freetime learning:** The learning never stops! I have been learning some AI technologies, as well as new backend techs.
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
