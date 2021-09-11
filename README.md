@@ -1,7 +1,7 @@
 # Tanner Creque
 ## 👋 &nbsp;Good day! My name is Tanner!
 ### *A litte about me...*
-:surfing_man: **Hobbies:** I have always been a computer enthusiest since I was very young. There is even a photo of me when i was around 3 "helping" my father work on a computer.
+:computer: **Hobbies:** I have always been a computer enthusiest since I was very young. This enthusasm has only gotten greater as I have gotten older.
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
