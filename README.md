@@ -7,7 +7,9 @@
 :red_car: I also am a self proclaimed car enthusiast.
 
 ### How I describe my work eithic:
-*To put what work means to me simply, is that it is plain and simple what gives us humans purpose. I take immense pride in the work that I do.
+*To put what work means to me simply, is that it is plain and simple what gives us humans purpose. I take immense pride in the work that I do.*
+
+### My Passions
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
