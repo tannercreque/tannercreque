@@ -7,7 +7,8 @@
 :red_car: I also am a self proclaimed car enthusiast.
 
 ### Why software?
-
+  The reason I personally chose to go into this field is because of the absolute limitless possibilities that you can achieve with code. I read an article on Software Engineers that created a program to assist blind +/ deaf people communicate with others, and make their day to day lives as easy as possible. That really spoke to me and that is my goal as an engineer; to change peoples lives for the better.
+  
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
