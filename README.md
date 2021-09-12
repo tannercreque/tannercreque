@@ -6,7 +6,6 @@
 :writing_hand: **Freetime learning:** The learning never stops! I have been learning some AI technologies, as well as new backend techs. <br>
 :red_car: I also am a self proclaimed car enthusiast.
 
-### My Passions
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
