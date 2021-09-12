@@ -6,9 +6,6 @@
 :writing_hand: **Freetime learning:** The learning never stops! I have been learning some AI technologies, as well as new backend techs. <br>
 :red_car: I also am a self proclaimed car enthusiast.
 
-### How I describe my work eithic:
-*To put what work means to me simply, is that it is plain and simple what gives us humans purpose. I take immense pride in the work that I do.*
-
 ### My Passions
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
