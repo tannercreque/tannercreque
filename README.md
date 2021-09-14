@@ -1,5 +1,12 @@
 # Tanner Creque
 ## 👋 &nbsp;Good day! My name is Tanner!
+(Use dark theme to find my LinkedIn! ;)
+
+<a href="https://aars.e" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://www.linkedin.com/in/tanner-creque-24121620a/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<br />
+<br />
+<br />
 ### *A litte about me...*
 :computer: **Hobbies:** I have always been a computer enthusiast since I was very young. This enthusiasm has only gotten greater as I have matured.<br>
 :bookmark_tabs: **Education:** I graduated from Flatiron School in the Software Engineering discipline. <br>
