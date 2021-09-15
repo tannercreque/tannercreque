@@ -4,8 +4,6 @@
 
 <a href="https://www.linkedin.com/in/tanner-creque-24121620a/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <br />
-<br />
-<br />
 ### *A litte about me...*
 :computer: **Hobbies:** I have always been a computer enthusiast since I was very young. This enthusiasm has only gotten greater as I have matured.<br>
 :bookmark_tabs: **Education:** I graduated from Flatiron School in the Software Engineering discipline. <br>
@@ -33,6 +31,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
   <a href="https://reactjs.org/" />
+<a href="https://www.fiverr.com/tannercreque?up_rollout=true" target="_blank"> <img align="left" alt="fiverr" width="26px" src="https://www.fiverr.com/tannercreque?up_rollout=true" /> </a>
 <br />
 <br />
 ### Softwares:
